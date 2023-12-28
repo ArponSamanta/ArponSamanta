@@ -1,6 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arpon Samanta
 =====================================================================================================================================
-https://media.licdn.com/dms/image/D5616AQFxRXOoQOMejQ/profile-displaybackgroundimage-shrink_350_1400/0/1703799704165?e=1709164800&v=beta&t=zw6zeT6MwCCUpSCyYeIIyRX4KDqCjLpMlDRX8ixqyZs
 Software Developer
 ------------------
 
