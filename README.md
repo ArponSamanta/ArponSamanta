@@ -1,7 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arpon Samanta
 =====================================================================================================================================
-![Black and  White Gradient Personal LinkedIn Banner](https://github.com/ArponSamanta/ArponSamanta/assets/92028002/47e2d0da-5da6-4976-8f65-263057ff8c10)
-
 Software Developer
 ------------------
 
