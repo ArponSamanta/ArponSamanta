@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I'm a enthusiastic coder and developer with a knack for software & applications development. Currently thriving as a Student at JIS University in B.Tech(CSE).I'm eager about technology and programming , and I thrive on developing something new. As an aspiring developer and programmer, I am committed to delivering high-quality work and always up for learn something new. I'm always open to exploring new opportunities and collaborating with like-minded. If you have an exciting project or would like to discuss, feel free to reach out!
+I'm a enthusiastic programmer and developer with a knack for software & applications development. Currently thriving as a Student at JIS University in B.Tech(CSE).I'm eager about technology and programming , and I thrive on developing something new. As an aspiring developer and programmer, I am committed to delivering high-quality work and always up for learn something new. I'm always open to exploring new opportunities and collaborating with like-minded. If you have an exciting project or would like to discuss, feel free to reach out!
 
 * 🌍  I'm based in Kolkata,India.
 * ✉️  You can contact me at [arponsamanta1234@gmail.com](mailto:arponsamanta1234@gmail.com)
