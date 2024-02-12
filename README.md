@@ -8,7 +8,7 @@ I'm a enthusiastic programmer and developer with a knack for software & applicat
 
 * 🌍  I'm based in Kolkata,India.
 * ✉️  You can contact me at [arponsamanta1234@gmail.com](mailto:arponsamanta1234@gmail.com)
-* 🧠  I'm learning MERN Stack,Kotlin,Framework,Unreal Engine,Unity Engine.
+* 🧠  I'm learning Kotlin,Unreal Engine,Unity Engine.
 * ⚡  I'm the Ironman of another universe.....but don't tell anyone.
 
 ### Skills
